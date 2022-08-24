@@ -36,4 +36,4 @@ git branch
 
 git merge
 
-
+![]( ../Screenshot/git%20merge.png)
